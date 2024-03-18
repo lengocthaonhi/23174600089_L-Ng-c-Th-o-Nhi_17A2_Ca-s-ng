@@ -1,0 +1,43 @@
++ Cần thêm file ảnh hoặc file .txt trong phần folder nộp bài. Từ lab 2 nếu thiếu sẽ bị trừ 2 điểm/ tổng số điểm bài tập.
++ Nhận xét và cho điểm từng bài trong lab:
+- Bài 1: đúng, tuy nhiên có những vấn đề sau:
+ . Nếu bài tập yêu cầu in ra hơn 1000 dòng thì sẽ sử dụng 1000 câu lệnh print? Như vậy khiến cho khối lượng công việc phải
+giải quyết của Python bị nâng lên, và khiến cho thời gian thực thi chương trình sẽ tăng.
+ . Ở mỗi lệnh print, mặc định sẽ tự động xuống dòng, bởi vậy không nhất thiết phải sử dụng end = '\n'
+Điểm bài tập: 1.0 điểm
+
+- Bài 2: đúng tuy nhiên bài yêu cầu là in dòng lệnh trên cùng một dòng, em đang thực hiện 2 câu lệnh print, vì vậy nếu chạy code thì kết quả sẽ là: 
+Thư viện ĐHKTKTCN có {so_luong_sach} sách {ten_sach} với mã số {ma_sach}
+Cuốn sách đó của tác giả {tac_gia} được xuất bản vào năm {nam_xuat_ban}
+Điểm bài tập: 1.0 điểm
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 điểm
+
+- Bài 4: Diện tích xung quanh của hình chóp tứ giác đều bằng chu vi đáy x chiều cao = 4 x a x h
+Điểm bài tập: 0.75
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 điểm
+
+- Bài 6: đúng, tuy nhiên có những vấn đề sau:
+ . dòng 9: y_c = y1 - y2 -> bài toán đang cần tính tổng 2 vecto
+ . dòng 19, 21: sai công thức tính mô đun của vecto
+Điểm bài tập: 0.75
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 điểm
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 điểm
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 điểm
+
+- Bài 10: đúng
+Điểm bài tập: 1.0 điểm
+
+Tổng điểm bài tập lab 1: 9.25
+
+ 
+ 
