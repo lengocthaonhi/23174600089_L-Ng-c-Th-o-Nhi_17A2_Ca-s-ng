@@ -14,7 +14,7 @@ Cuốn sách đó của tác giả {tac_gia} được xuất bản vào năm {na
 - Bài 3: đúng
 Điểm bài tập: 1.0 điểm
 
-- Bài 4: Diện tích xung quanh của hình chóp tứ giác đều bằng chu vi đáy x chiều cao = 4 x a x h
+- Bài 4: Diện tích xung quanh của hình chóp tứ giác đều bằng (chu vi đáy x chiều cao)/2 = 4 x a x h/2
 Điểm bài tập: 0.75
 
 - Bài 5: đúng
