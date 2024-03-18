@@ -37,7 +37,7 @@ Cuốn sách đó của tác giả {tac_gia} được xuất bản vào năm {na
 - Bài 10: đúng
 Điểm bài tập: 1.0 điểm
 
-Tổng điểm bài tập lab 1: 9.25
+Tổng điểm bài tập lab 1: 9.5
 
  
  
