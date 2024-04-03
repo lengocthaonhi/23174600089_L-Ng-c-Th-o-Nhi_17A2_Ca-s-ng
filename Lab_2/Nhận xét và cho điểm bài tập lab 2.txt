@@ -1,0 +1,34 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: em sẽ phải chia ra các trường hợp:
+Số < 1000: không có chữ số hàng nghìn
+Số > 1000: in ra chữ số hàng nghìn
+Tuy nhiên đoạn code của em > 1000, nếu cô chọn số 49894 thì chữ số hàng nghìn là 49
+Điểm bài tập: 0
+
+- Bài 3: trống
+Điểm bài tập: 0
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: trống
+Điểm bài tập: 0
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: thiếu trường hợp 2 đường thẳng vuông góc
+Điểm bài tập: 0.75
+
+- Bài 9: trống
+Điểm bài tập: 0
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 2: 5.75 - 2 (thiếu ảnh chạy chương trình) = 3.75
