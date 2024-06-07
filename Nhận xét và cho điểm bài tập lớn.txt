@@ -1,0 +1,16 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: 
++ Trong vòng lặp while, khi thêm tên vào danh sách list_name, bạn đã quên truyền đối số name vào phương thức append.
++ Kiểm tra số lượng tên, đảm bảo rằng người dùng nhập đúng 15 tên.
++ Khi sử dụng biến group trong vòng lặp for, nhưng group là một danh sách chứa các tên, không phải là số lượng người.
++ Hàm chia_nhóm: Hàm này nên trả về một dictionary chứa các nhóm thay vì một danh sách các nhóm.
++ Hàm xac_suat_cho_nguoi đang tính xác suất dựa trên số lượng nhóm tham gia, nhưng theo logic của bài toán, mỗi người chỉ tham gia vào một nhóm.
+Điểm: 1.0
+
+File: Không xuất file csv
+Điểm: 0
+
+Không có ảnh chạy code
+Điểm: 0
+
+Điểm bài tập lớn: 1.0
